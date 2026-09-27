@@ -1,0 +1,10 @@
+node_modules
+dist
+website-design-ideas
+
+# personal documents: the CV contains a phone number
+cv
+
+# local secrets / editor files
+.env*
+*.local
